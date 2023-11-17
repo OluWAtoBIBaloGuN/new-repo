@@ -1,0 +1,10 @@
+This work took a look at the emission problem in Lagos state from vehicular activities. 
+CO2 emissions are a source of grave danger to any community and data shows that the rate 
+of emission in Lagos state is on the high side occasioned by certain factors. 
+The State has over time come up with different measures to address this issue but the 
+economic realities of vehicle owners and users seem to have a stronger foot in the matter. 
+This work therefore tries to mitigate this problem from an Artificial intelligence point 
+of view by inculcating the use of two supervised deep learning Neural networks for the purpose 
+of prediction and classification with already existing ANPR cameras used for the purpose of identifying 
+vehicles with expired papers of those that flout traffic rules. The expanded framework not only meets 
+the goals set out but further analysis shows that it comes with other added advantages. 
